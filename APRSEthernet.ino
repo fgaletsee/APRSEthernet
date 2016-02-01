@@ -1,7 +1,7 @@
 //Author: Franz G. Aletsee
 //Call: DL6FCD K1AFR
 //Mail: franz.aletsee@dl6fcd.de
-//Date: 08/2015
+//Date: 08/2015 s
 
 //Callsign ID password and ARPS-IS server
 #define call "DL6FCD"
